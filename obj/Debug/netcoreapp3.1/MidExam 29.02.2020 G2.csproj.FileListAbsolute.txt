@@ -1,0 +1,13 @@
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\bin\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.exe
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\bin\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.deps.json
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\bin\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.runtimeconfig.json
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\bin\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.runtimeconfig.dev.json
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\bin\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.dll
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\bin\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.pdb
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\obj\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.csprojAssemblyReference.cache
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\obj\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.AssemblyInfoInputs.cache
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\obj\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.AssemblyInfo.cs
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\obj\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.csproj.CoreCompileInputs.cache
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\obj\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.dll
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\obj\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.pdb
+D:\Programs\01. SoftUni\SoftUni Exams\FundamentalsExams\MidExam 29.02.2020 G2\obj\Debug\netcoreapp3.1\MidExam 29.02.2020 G2.genruntimeconfig.cache
